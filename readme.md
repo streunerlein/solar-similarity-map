@@ -1,4 +1,4 @@
-# Solar visualization for cosine similarity
+# Solar visualization for cosine similarity of embeddings
 
 ![Sample visualization](embed-out-raster.png "Sample visualization")
 
