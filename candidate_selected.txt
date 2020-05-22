@@ -1,0 +1,5 @@
+unsupervised learning
+self-organized hebbian learning
+machine learning
+supervised learning
+semi-supervised learning

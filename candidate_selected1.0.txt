@@ -1,0 +1,50 @@
+unsupervised learning algorithms
+latent variable models
+latent variables
+neural network models
+random variables
+statistical models
+maximization algorithm
+variables
+modeling probability densities
+different statistical parameters
+unsupervised learning
+self-organized hebbian learning
+covariance matrix
+machine learning
+anomalous data points
+input data
+statistical model
+conditional probability distribution
+latent variable
+hebbian learning
+semi-supervised learning
+parameters
+vigilance parameter
+probability distribution
+generalization
+neural networks
+self-organization
+algorithm
+tensor decomposition techniques
+generative adversarial networks
+supervised learning
+unsupervised techniques
+reinforcement learning
+adaptive resonance theory
+algorithmic relationships
+tensors
+unknown parameters
+true unknown parameters
+experiential learning
+topic modeling
+statistical approaches
+density estimation
+many pattern recognition tasks
+synaptic weights
+cognitive functions
+random vector
+spike-timing-dependent plasticity
+neurons
+cluster analysis
+multi-dimensional arrays

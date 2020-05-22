@@ -1,0 +1,143 @@
+absence
+account
+action potentials
+adaptive resonance theory
+addition
+algorithm
+algorithmic relationships
+anomalous data points
+approach
+art
+art model
+art networks
+assumptions
+attributes
+automatic target recognition
+basic moments
+branch
+categories
+central application
+classical example
+cluster analysis
+clusters
+cognitive functions
+coincidence
+commonalities
+conditional probability distribution
+conditions
+connection
+contrast
+covariance matrix
+data
+data features
+degree
+density estimation
+different statistical parameters
+document
+donald hebb
+error
+expectation
+experiential learning
+feedback
+field
+first order moment
+function
+generalization
+generative adversarial networks
+global convergence
+group
+groups
+hebbian learning
+hybridization
+input data
+inputs
+interest
+label
+large class
+latent variable
+latent variable models
+latent variables
+local optima
+machine learning
+main methods
+many other domains
+many pattern recognition tasks
+map
+matrices
+maximization algorithm
+mean
+mean vector
+means
+members
+method
+model
+modeling probability densities
+moments
+multi-dimensional arrays
+nearby locations
+neural network models
+neural networks
+neurons
+new piece
+number
+order
+order moments
+orders
+parameters
+pattern recognition
+practical example
+practical methods
+pre-existing labels
+presence
+principal component
+principle
+probability distribution
+problem size
+random variables
+random vector
+range
+reinforcement learning
+reinforcement techniques
+same clusters
+samples
+second order moment
+second order moments
+segment
+seismic signal processing
+self-organization
+self-organized hebbian learning
+self-organizing map
+semi-supervised learning
+set
+similar properties
+similar version
+similarity
+som
+spike-timing-dependent plasticity
+statistical approaches
+statistical model
+statistical models
+statistics
+stdp
+study
+such commonalities
+supervised learning
+synaptic weights
+tensor decomposition techniques
+tensors
+time
+topic
+topic modeling
+topographic organization
+true unknown parameters
+type
+unknown parameters
+unknown patterns
+unsupervised learning
+unsupervised learning algorithms
+unsupervised techniques
+user control
+variables
+vigilance parameter
+wire
+words

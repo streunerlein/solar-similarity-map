@@ -1,0 +1,50 @@
+unsupervised learning algorithms
+latent variable models
+anomalous data points
+neural network models
+covariance matrix
+modeling probability densities
+random variables
+self-organization
+vigilance parameter
+different statistical parameters
+second order moments
+generalization
+maximization algorithm
+inputs
+reinforcement techniques
+algorithmic relationships
+many pattern recognition tasks
+self-organized hebbian learning
+multi-dimensional arrays
+assumptions
+statistical models
+cluster analysis
+machine learning
+adaptive resonance theory
+latent variables
+synaptic weights
+seismic signal processing
+tensor decomposition techniques
+cognitive functions
+true unknown parameters
+art model
+unsupervised learning
+generative adversarial networks
+practical example
+principal component
+document
+density estimation
+conditional probability distribution
+error
+categories
+local optima
+approach
+topic modeling
+donald hebb
+user control
+stdp
+commonalities
+supervised learning
+variables
+problem size
